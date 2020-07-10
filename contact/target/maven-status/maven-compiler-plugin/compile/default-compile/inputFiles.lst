@@ -1,0 +1,12 @@
+/Users/imaddjebarni/Movies/elearningETNA/myPenelope/djebar_i/MyPenelope/contact/src/main/java/com/contact/dao/IDao.java
+/Users/imaddjebarni/Movies/elearningETNA/myPenelope/djebar_i/MyPenelope/contact/src/main/java/com/contact/dao/impl/AbstractJsonDao.java
+/Users/imaddjebarni/Movies/elearningETNA/myPenelope/djebar_i/MyPenelope/contact/src/main/java/com/contact/controller/ContactController.java
+/Users/imaddjebarni/Movies/elearningETNA/myPenelope/djebar_i/MyPenelope/contact/src/main/java/com/contact/model/Contact.java
+/Users/imaddjebarni/Movies/elearningETNA/myPenelope/djebar_i/MyPenelope/contact/src/main/java/com/contact/dao/impl/JsonContactDaoImpl.java
+/Users/imaddjebarni/Movies/elearningETNA/myPenelope/djebar_i/MyPenelope/contact/src/main/java/com/contact/dao/IContactDao.java
+/Users/imaddjebarni/Movies/elearningETNA/myPenelope/djebar_i/MyPenelope/contact/src/main/java/com/contact/dao/factory/JsonDaoFactory.java
+/Users/imaddjebarni/Movies/elearningETNA/myPenelope/djebar_i/MyPenelope/contact/src/main/java/com/contact/observer/MySubjectObserver.java
+/Users/imaddjebarni/Movies/elearningETNA/myPenelope/djebar_i/MyPenelope/contact/src/main/java/com/contact/observer/MyObserver.java
+/Users/imaddjebarni/Movies/elearningETNA/myPenelope/djebar_i/MyPenelope/contact/src/main/java/com/contact/dao/impl/AbstractDao.java
+/Users/imaddjebarni/Movies/elearningETNA/myPenelope/djebar_i/MyPenelope/contact/src/main/java/com/contact/dao/factory/AbstractDaoFactory.java
+/Users/imaddjebarni/Movies/elearningETNA/myPenelope/djebar_i/MyPenelope/contact/src/main/java/com/contact/main/MainDao.java

@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "ville": "test",
+      "rue": "test",
+      "telephone": "test",
+      "id": 2,
+      "codePostal": "test",
+      "nom": "test",
+      "prenom": "test",
+      "email": "test"
+    },
+    {
+      "ville": "Paris",
+      "rue": "Rue de Rivoli",
+      "telephone": "0614236754",
+      "id": 1,
+      "codePostal": "75000",
+      "nom": "Mar",
+      "prenom": "Marshall",
+      "email": "martin.marshall@gmail.com"
+    }
+  ]
+}

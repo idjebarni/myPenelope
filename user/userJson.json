@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Les hommes",
+      "password": "Hey",
+      "firstname": "imad",
+      "lastname": "djeb"
+    },
+    {
+      "id": 2,
+      "username": "Les ZHOMMES",
+      "password": "SAHAKHO",
+      "firstname": "DZDERIE",
+      "lastname": "DELUXE"
+    }
+  ]
+}

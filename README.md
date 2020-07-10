@@ -1,6 +1,6 @@
 # MyPenelope
 
-ERP Kernel.
+ERP Kernel with two microservices : user and contact
 
 ## Installation
 
